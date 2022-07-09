@@ -1,0 +1,25 @@
+[[package]]
+name = "lg-hello-imgui"
+version = "0.1.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6"
+develop = false
+
+[package.extras]
+test = ["pytest"]
+
+[package.source]
+type = "git"
+url = "https://github.com/pthom/lg_hello_imgui.git"
+reference = "main"
+resolved_reference = "708f4d97eb30ad34054c77c3c27937416665a012"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "1de04035aeeebfa58af12d6e28c3c1c710c397c0d06444894782e188878c2722"
+
+[metadata.files]
+lg-hello-imgui = []
