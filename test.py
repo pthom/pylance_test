@@ -1,4 +1,4 @@
-from lg_hello_imgui import hello_imgui, imgui, implot
+from lg_imgui_bundle import hello_imgui, imgui, implot
 
 
 class AppState:
@@ -20,7 +20,7 @@ def my_gui(app_state: AppState):
         imgui.show_demo_window()
     if app_state.show_implot_demo:
         implot.show_demo_window()
-    
+
 
 if __name__ == "__main__":
     app_state = AppState()

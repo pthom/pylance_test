@@ -6,7 +6,7 @@ authors = ["Pascal Thomet <pthomet@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-lg-hello-imgui = { git = "https://github.com/pthom/lg_hello_imgui.git", branch = "main" }
+lg-imgui-bundle = { git = "https://github.com/pthom/lg_imgui_bundle.git", branch = "main" }
 
 [tool.poetry.dev-dependencies]
 

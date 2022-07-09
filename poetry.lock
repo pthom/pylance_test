@@ -1,5 +1,5 @@
 [[package]]
-name = "lg-hello-imgui"
+name = "lg-imgui-bundle"
 version = "0.1.0"
 description = ""
 category = "main"
@@ -12,14 +12,14 @@ test = ["pytest"]
 
 [package.source]
 type = "git"
-url = "https://github.com/pthom/lg_hello_imgui.git"
+url = "https://github.com/pthom/lg_imgui_bundle.git"
 reference = "main"
-resolved_reference = "708f4d97eb30ad34054c77c3c27937416665a012"
+resolved_reference = "8d35d45ffc62b2e646927d6036befb4d761c119c"
 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "1de04035aeeebfa58af12d6e28c3c1c710c397c0d06444894782e188878c2722"
+content-hash = "30fb13ce3a10aeac2057f96b68fada4d44c17aa83d1489d75598c7950e014f24"
 
 [metadata.files]
-lg-hello-imgui = []
+lg-imgui-bundle = []
